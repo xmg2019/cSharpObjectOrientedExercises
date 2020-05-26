@@ -10,5 +10,6 @@ Applications built include;
 Using basic OOP techniques such as 
 - interfaces, abstract, polymorphism, exception handling
 
-All exercises includes the initial questions as reference for self-exploration & try-outs 
+All exercises includes the initial questions as reference for self-exploration & try-outs.
+
 Have Fun!
