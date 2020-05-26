@@ -2,7 +2,7 @@
 
 This file contains the object oriented exercises via C#
 
-Applications built includes;
+Applications built include;
 - Dice-Throwing, 
 - Bank Account (allows withdrawal, deposit, fund transfer, interests rates calculation features)
  - Shapes exercises
