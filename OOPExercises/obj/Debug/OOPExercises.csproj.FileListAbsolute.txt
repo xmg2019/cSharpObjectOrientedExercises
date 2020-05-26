@@ -1,0 +1,6 @@
+C:\Users\xiaomin\source\repos\OOPExercises\OOPExercises\bin\Debug\OOPExercises.exe.config
+C:\Users\xiaomin\source\repos\OOPExercises\OOPExercises\bin\Debug\OOPExercises.exe
+C:\Users\xiaomin\source\repos\OOPExercises\OOPExercises\bin\Debug\OOPExercises.pdb
+C:\Users\xiaomin\source\repos\OOPExercises\OOPExercises\obj\Debug\OOPExercises.csprojAssemblyReference.cache
+C:\Users\xiaomin\source\repos\OOPExercises\OOPExercises\obj\Debug\OOPExercises.exe
+C:\Users\xiaomin\source\repos\OOPExercises\OOPExercises\obj\Debug\OOPExercises.pdb
